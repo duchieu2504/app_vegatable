@@ -1,0 +1,132 @@
+[
+  {
+    "id": "RAUDEN___BENHDOMLA",
+    "name": "Bệnh đốm lá",
+    "plant": "Rau dền",
+    "symptoms": "Bệnh đốm lá thường biểu hiện bằng các đốm nhỏ, tròn hoặc không đều trên bề mặt lá. Các đốm này có thể có màu nâu, đen, vàng, xám hoặc tím, thường có viền rõ ràng hoặc quầng sáng màu vàng xung quanh. Khi bệnh tiến triển, các đốm có thể lớn dần, hợp nhất lại tạo thành các mảng lớn, gây cháy lá. Lá bị nhiễm bệnh có thể chuyển sang màu vàng, héo rũ và rụng sớm. Trong trường hợp nặng, các đốm cũng có thể xuất hiện trên thân, cành, cuống lá và quả, làm giảm chất lượng và giá trị thương phẩm của nông sản.",
+    "causes": "Nguyên nhân chính gây bệnh đốm lá là do các loại nấm (ví dụ: Alternaria, Cercospora, Septoria, Colletotrichum, Phyllosticta) hoặc vi khuẩn (ví dụ: Xanthomonas, Pseudomonas). Các yếu tố môi trường thuận lợi cho sự phát triển của bệnh bao gồm độ ẩm cao, thời gian lá bị ướt kéo dài, nhiệt độ ấm áp và thông gió kém. Sự thiếu hụt dinh dưỡng hoặc căng thẳng của cây cũng có thể làm tăng tính nhạy cảm của cây đối với bệnh.",
+    "harm": "Bệnh đốm lá làm giảm diện tích quang hợp của lá, ảnh hưởng nghiêm trọng đến khả năng tổng hợp chất dinh dưỡng của cây, dẫn đến cây còi cọc, sinh trưởng kém. Lá rụng sớm làm suy yếu cây, giảm năng suất và chất lượng của hoa, quả hoặc hạt. Cây bị bệnh nặng có thể chết. Ngoài ra, bệnh còn làm giảm giá trị thẩm mỹ của cây cảnh và gây thiệt hại kinh tế đáng kể cho người nông dân.",
+    "treatment": "Điều trị bệnh đốm lá bao gồm nhiều phương pháp: \n- **Canh tác:** Loại bỏ và tiêu hủy các bộ phận cây bị nhiễm bệnh. Đảm bảo khoảng cách trồng hợp lý để tăng cường thông gió. Tránh tưới nước lên tán lá, nên tưới gốc vào buổi sáng để lá có thời gian khô ráo. Luân canh cây trồng và sử dụng hạt giống/cây con sạch bệnh. Vệ sinh dụng cụ làm vườn.\n- **Hữu cơ:** Sử dụng các sản phẩm gốc đồng (ví dụ: Bordeaux mixture) hoặc lưu huỳnh, dầu neem, hoặc các chế phẩm sinh học chứa vi khuẩn đối kháng (ví dụ: Bacillus subtilis) để kiểm soát nấm và vi khuẩn.\n- **Hóa học:** Sử dụng thuốc diệt nấm (fungicide) hoặc thuốc diệt khuẩn (bactericide) phù hợp với tác nhân gây bệnh. Các hoạt chất phổ biến bao gồm Chlorothalonil, Mancozeb, Azoxystrobin, Propiconazole cho nấm; và các hợp chất đồng cho vi khuẩn. Cần tuân thủ liều lượng và hướng dẫn sử dụng của nhà sản xuất để đảm bảo hiệu quả và an toàn.",
+    "recovery_time": "Thời gian phục hồi của cây phụ thuộc vào mức độ nghiêm trọng của bệnh, loại cây và hiệu quả của phương pháp điều trị. Đối với các trường hợp nhẹ, cây có thể bắt đầu ra lá mới khỏe mạnh trong vòng 2-4 tuần sau khi điều trị đúng cách. Đối với các trường hợp nặng, các lá đã bị tổn thương sẽ không thể phục hồi, nhưng sự lây lan của bệnh có thể được ngăn chặn và các chồi non mới được bảo vệ trong khoảng 3-6 tuần. Để cây phục hồi hoàn toàn sức sống và năng suất có thể mất nhiều thời gian hơn, đôi khi là vài tháng."
+  },
+  {
+    "id": "RAUDEN___KHOEMANH",
+    "name": "Rau khỏe mạnh",
+    "plant": "Rau dền",
+    "symptoms": "Không có triệu chứng bệnh tật. Cây rau khỏe mạnh có lá xanh tươi, bóng mượt, không có đốm lạ, vết thối nhũn, hoặc biến dạng. Thân cây cứng cáp, không bị gãy đổ hay mềm nhũn. Rễ phát triển tốt, màu trắng ngà hoặc vàng nhạt, không có dấu hiệu thối rữa. Cây sinh trưởng cân đối, ra hoa kết trái đều đặn và đạt năng suất cao.",
+    "causes": "Không phải là bệnh. 'Rau khỏe mạnh' là trạng thái sinh trưởng tối ưu của cây, do được cung cấp đầy đủ các yếu tố cần thiết như: đất đai màu mỡ, dinh dưỡng cân đối (đạm, lân, kali và vi lượng), đủ nước, ánh sáng phù hợp, nhiệt độ và độ ẩm thích hợp, không bị tấn công bởi sâu bệnh hại hoặc các yếu tố gây stress môi trường (như ngập úng, hạn hán, ô nhiễm).",
+    "harm": "Không có tác hại. Ngược lại, đây là trạng thái mong muốn của mọi người trồng trọt, mang lại năng suất cao, chất lượng nông sản tốt, giá trị dinh dưỡng cao và khả năng chống chịu tốt hơn với các điều kiện bất lợi.",
+    "treatment": "Không cần điều trị bệnh vì đây không phải là bệnh. Để duy trì trạng thái 'rau khỏe mạnh', cần áp dụng các biện pháp canh tác tổng hợp: chọn giống cây khỏe mạnh, kháng bệnh; chuẩn bị đất tốt, bón phân hữu cơ và vô cơ cân đối; tưới tiêu hợp lý; kiểm soát cỏ dại; luân canh cây trồng; và áp dụng các biện pháp phòng ngừa sâu bệnh hại tổng hợp (IPM) thay vì điều trị khi đã phát bệnh.",
+    "recovery_time": "Không áp dụng, vì đây không phải là bệnh cần phục hồi. Cây đang ở trạng thái tối ưu và cần được duy trì chăm sóc tốt để tiếp tục phát triển khỏe mạnh."
+  },
+  {
+    "id": "RAUDEN___BENHSAUANLA",
+    "name": "Bệnh sâu ăn lá",
+    "plant": "Rau dền",
+    "symptoms": "Lá rau dền xuất hiện các lỗ thủng, khuyết mẻ ở mép lá hoặc giữa phiến lá. Xung quanh vết cắn thường có phân sâu màu đen, xanh rải rác. Nếu mật độ sâu cao, chúng có thể ăn trụi cả lá non và đọt non.",
+    "causes": "Do các loại sâu khoang, sâu xanh, sâu tơ bướm nở ra từ trứng bướm đẻ trên mặt lá. Môi trường ẩm ướt và thiếu ánh sáng là điều kiện lý tưởng cho sâu sinh sôi.",
+    "harm": "Làm mất diện tích quang hợp của lá, cây còi cọc chậm lớn. Nếu sâu cắn đứt ngọn non, cây sẽ không thể phát triển tiếp, làm giảm nghiêm trọng năng suất và chất lượng rau, không thể thu hoạch để bán.",
+    "treatment": "Biện pháp thủ công: Bắt sâu bằng tay vào buổi sáng sớm hoặc chiều mát, ngắt bỏ các lá có ổ trứng sâu. Biện pháp sinh học: Phun các chế phẩm sinh học từ tỏi, ớt, gừng hoặc chế phẩm vi sinh BT (Bacillus thuringiensis). Hạn chế dùng thuốc hóa học để đảm bảo rau sạch.",
+    "recovery_time": "Cây sẽ bắt đầu ra lá mới sau 7-10 ngày kể từ khi diệt sạch sâu hại."
+  },
+  {
+    "id": "RAUDEN___BENHXOANLA",
+    "name": "Bệnh xoăn lá",
+    "plant": "Rau dền",
+    "symptoms": "Các lá non trên ngọn bị xoắn lại, nhăn nheo, co rút hoặc biến dạng móp méo. Lá thường bị chuyển sang màu xanh nhạt hoặc vàng mép, đôi khi các gân lá nổi rõ và cứng lại. Cây chững lại không phát triển.",
+    "causes": "Nguyên nhân phổ biến nhất là do Virus gây xoăn lá (Leaf curl virus) lây truyền qua các loài côn trùng chích hút như bọ trĩ, rầy mềm, rệp sáp. Ngoài ra, việc lạm dụng phân bón lá hoặc phun thuốc trừ sâu quá liều lúc nắng nóng cũng có thể làm xoăn đọt sinh lý.",
+    "harm": "Bệnh xoăn lá do virus không thể chữa trị hoàn toàn. Cây bị bệnh sẽ không thể lớn thêm, lá cứng và không thể sử dụng làm thực phẩm. Bệnh dễ dàng lây lan sang các cây khỏe mạnh xung quanh nếu không cách ly kịp thời.",
+    "treatment": "Nếu do vi-rút: Nhổ bỏ và tiêu hủy ngay lập tức cây bệnh để tránh lây lan. Phun các loại thuốc sinh học (tinh dầu neem) để tiêu diệt rầy rệp (vật trung gian truyền bệnh). Nếu do sốc phân thuốc: Ngưng ngay việc bón phân, tưới đẫm nước vào gốc và phun sương lá vào buổi sáng sớm để giải độc cho cây.",
+    "recovery_time": "Nếu do sốc phân thuốc, cây phục hồi sau 1-2 tuần. Nếu do Virus, cây không thể phục hồi và buộc phải nhổ bỏ."
+  },
+  {
+    "id": "RAUMUONG___BENHDOMLA",
+    "name": "Bệnh đốm lá",
+    "plant": "Rau muống",
+    "symptoms": "Trên lá xuất hiện các đốm nhỏ màu vàng, nâu hoặc đen, sau đó lan rộng thành các vết hình tròn hoặc bất định có tâm màu xám nhạt và viền sẫm màu. Xung quanh vết bệnh thường có quầng màu vàng. Khi bệnh tiến triển nặng, các đốm bệnh liên kết lại với nhau làm lá bị khô cháy, xoăn lại và rụng sớm.",
+    "causes": "Do nhiều loại nấm (như Cercospora, Alternaria, Septoria) hoặc vi khuẩn gây ra. Bệnh bùng phát mạnh trong điều kiện độ ẩm cao, mưa nhiều, tưới nước đọng trên lá, nhiệt độ ấm áp và mật độ gieo trồng quá dày gây thiếu ánh sáng.",
+    "harm": "Làm suy giảm nghiêm trọng khả năng quang hợp của cây, làm cây còi cọc, suy yếu và phát triển kém. Bệnh gây rụng lá hàng loạt, giảm năng suất và chất lượng thương phẩm của nông sản, trường hợp nặng có thể khiến cây bị chết hoàn toàn.",
+    "treatment": "Biện pháp canh tác: Cắt tỉa và tiêu hủy các lá bị bệnh, vệ sinh tàn dư thực vật, tỉa cành tạo độ thông thoáng, tránh tưới nước trực tiếp lên lá vào chiều tối. Biện pháp hóa học/sinh học: Phun các loại thuốc đặc trị chứa hoạt chất gốc Đồng (Copper Hydroxide, Copper Oxychloride), Mancozeb, Chlorothalonil, Difenoconazole, Hexaconazole hoặc các chế phẩm sinh học như Bacillus subtilis, Trichoderma.",
+    "recovery_time": "Khoảng 2 đến 4 tuần sau khi áp dụng đúng biện pháp điều trị, cây sẽ ngừng lây lan bệnh và bắt đầu ra mầm, lá mới khỏe mạnh."
+  },
+  {
+    "id": "RAUMUONG___BENHSAUANLA",
+    "name": "Bệnh sâu ăn lá",
+    "plant": "Rau muống",
+    "symptoms": "Lá cây bị thủng lỗ, khuyết mép hoặc bị ăn rụi chỉ còn lại gân lá. Xuất hiện các vết cắn nham nhở trên phiến lá tươi và lá non. Phân sâu nhỏ màu đen hoặc nâu rơi rải rác trên bề mặt lá và quanh gốc cây. Có thể quan sát thấy sâu non, trứng hoặc kén nhộng ẩn nấp ở mặt dưới lá.",
+    "causes": "Do ấu trùng (sâu non) của các loài côn trùng thuộc bộ Cánh vảy (Lepidoptera) như sâu xanh, sâu khoang, sâu tơ, sâu đo... đẻ trứng và phát triển trên cây, lấy mô lá làm thức ăn chính.",
+    "harm": "Làm suy giảm nghiêm trọng diện tích quang hợp của cây, khiến cây sinh trưởng kém, còi cọc. Nếu mật độ sâu cao có thể làm cây trụi lá hoàn toàn, dẫn đến chết cây con, giảm mạnh năng suất và phẩm chất thu hoạch.",
+    "treatment": "Biện pháp canh tác: Thường xuyên kiểm tra vườn, ngắt bỏ lá có ổ trứng hoặc bắt sâu bằng tay, dọn sạch cỏ dại và tàn dư thực vật. Biện pháp sinh học: Sử dụng chế phẩm vi sinh Bacillus thuringiensis (Bt), nấm xanh Metarhizium hoặc bảo tồn thiên địch như ong ký sinh, bọ xít ăn thịt. Biện pháp hóa học: Khi mật độ sâu cao, phun các loại thuốc có hoạt chất gốc Abamectin, Emamectin benzoate, Chlorantraniliprole theo đúng liều lượng hướng dẫn.",
+    "recovery_time": "Từ 1 đến 3 tuần sau khi diệt sạch sâu hại, cây sẽ bắt đầu đâm chồi và ra lứa lá mới."
+  },
+  {
+    "id": "RAUMUONG___BENHSAUVEBUA",
+    "name": "Bệnh sâu vẽ bùa",
+    "plant": "Rau muống",
+    "symptoms": "Sâu non đục thành các đường ngoằn ngoèo dưới lớp biểu bì lá non và chồi non, tạo thành các vệt dài có ánh bạc lấp lánh. Lá bị tấn công thường bị co quắp, nhăn nheo, biến dạng và mép lá bị cuốn lại.",
+    "causes": "Do ấu trùng của loài bướm nhỏ thuộc họ Gracillariidae (tên khoa học: Phyllocnistis citrella) gây ra. Bướm mẹ đẻ trứng vào mặt dưới lá non, trứng nở thành sâu non đục khoét mô lá.",
+    "harm": "Làm giảm nghiêm trọng diện tích quang hợp, đọt non bị còi cọc, cây chậm phát triển. Các vết thương do sâu vẽ bùa tạo ra là cửa ngõ thuận lợi cho vi khuẩn Xanthomonas citri xâm nhập gây ra bệnh loét hại cây có múi.",
+    "treatment": "Canh tác: Tỉa cành, tạo tán, bón phân cân đối để thúc cây ra đọt non tập trung; ngắt bỏ và tiêu hủy các lá bị hại nặng. Sinh học: Phun dầu khoáng Petroleum Spray Oil, bảo vệ thiên địch như ong ký sinh Ageniaspis citricola. Hóa học: Phun thuốc khi đọt non vừa nhú dài 1 - 2cm (bằng hạt gạo) bằng các hoạt chất như Abamectin, Imidacloprid, Spinetoram hoặc Thiamethoxam.",
+    "recovery_time": "Từ 2 đến 4 tuần sau khi xử lý triệt để và cây ra đợt đọt non mới khỏe mạnh."
+  },
+  {
+    "id": "RAUMUONG___KHOEMANH",
+    "name": "Rau khỏe mạnh",
+    "plant": "Rau muống",
+    "symptoms": "Cây phát triển bình thường, lá xanh tốt, tươi tắn, không có vết đốm, héo úa hay biến dạng. Thân cây chắc khỏe, hệ rễ phát triển mạnh mẽ, hoa và quả (nếu có) phát triển cân đối, không có dấu hiệu bị sâu bệnh tấn công.",
+    "causes": "Không có bệnh lý. Cây được sống trong điều kiện môi trường thuận lợi, cung cấp đầy đủ ánh sáng, nước, dinh dưỡng cân đối và được chăm sóc đúng kỹ thuật.",
+    "harm": "Không có tác hại. Cây đạt tốc độ sinh trưởng tối đa, mang lại năng suất và chất lượng nông sản cao nhất.",
+    "treatment": "Không cần điều trị. Duy trì quy trình chăm sóc tốt: tưới nước vừa đủ, bón phân hữu cơ và vi lượng định kỳ, giữ luống rau thông thoáng và luân canh cây trồng để phòng ngừa dịch hại.",
+    "recovery_time": "Không áp dụng (cây đang trong trạng thái phát triển tối ưu)."
+  },
+  {
+    "id": "RAUMONGTOI___BENHDOMLA",
+    "name": "Bệnh đốm lá",
+    "plant": "Rau mồng tơi",
+    "symptoms": "Xuất hiện các vết đốm tròn hoặc hình dạng bất định trên lá. Ban đầu là các chấm nhỏ màu vàng, nâu hoặc đen, sau đó lan rộng ra. Tâm vết bệnh thường khô, có màu xám nhạt hoặc nâu xám, xung quanh có quầng vàng. Khi bệnh nặng, các đốm liên kết lại làm lá bị cháy khô, rách xơ xác và rụng sớm.",
+    "causes": "Do các loài nấm (như Cercospora spp., Alternaria spp., Septoria spp.) hoặc vi khuẩn (Xanthomonas spp., Pseudomonas spp.) gây ra. Nấm bệnh phát triển mạnh trong điều kiện độ ẩm cao, mưa nhiều, sương mù, mật độ trồng quá dày và thoát nước kém.",
+    "harm": "Làm suy giảm nghiêm trọng khả năng quang hợp của cây, khiến cây cằn cỗi, chậm phát triển. Bệnh gây rụng lá hàng loạt, làm suy yếu sức đề kháng, giảm năng suất và chất lượng nông sản, trường hợp nặng có thể làm chết cây.",
+    "treatment": "Biện pháp canh tác: Cắt tỉa lá bệnh đem tiêu hủy, bón phân cân đối, tránh dư thừa đạm, tưới nước vào gốc không làm ướt lá. Biện pháp sinh học: Sử dụng chế phẩm Trichoderma, Chitosan. Biện pháp hóa học: Phun các thuốc chứa hoạt chất gốc đồng (Copper Oxychloride), Mancozeb, Hexaconazole, Difenoconazole hoặc Antracol theo đúng liều lượng hướng dẫn.",
+    "recovery_time": "Khoảng 2 đến 4 tuần sau khi áp dụng các biện pháp điều trị và cây bắt đầu ra đợt lá mới."
+  },
+  {
+    "id": "RAUMONGTOI___KHOEMANH",
+    "name": "Rau khỏe mạnh",
+    "plant": "Rau mồng tơi",
+    "symptoms": "Lá xanh tươi, đều màu, không có vết đốm, vàng lá hay xoăn lá. Thân cây chắc khỏe, cứng cáp, phát triển cân đối. Hệ rễ phát triển tốt, màu trắng hoặc vàng nhạt. Cây ra hoa và đậu quả bình thường, sản phẩm không bị dị dạng hay thối rữa.",
+    "causes": "Trạng thái tối ưu khi cây được cung cấp đầy đủ và cân đối các chất dinh dưỡng, đủ ánh sáng, nước tưới hợp lý và được quản lý tốt các yếu tố dịch hại (nấm, vi khuẩn, virus, sâu bệnh).",
+    "harm": "Không có tác hại. Trái lại, cây khỏe mạnh mang lại năng suất cao nhất, chất lượng thương phẩm tốt, hương vị tự nhiên và sức đề kháng tốt với thời tiết bất lợi.",
+    "treatment": "Không cần điều trị. Tiếp tục duy trì các biện pháp canh tác tốt (GAP): tưới nước vừa đủ, bón phân hữu cơ và vi sinh định kỳ, làm cỏ, tỉa lá cành tạo độ thông thoáng, và chủ động phòng ngừa sâu bệnh.",
+    "recovery_time": "Cây đang ở trạng thái phát triển khỏe mạnh hoàn hảo, không cần phục hồi."
+  },
+  {
+    "id": "RAUNGOT___BENHKHAMLA",
+    "name": "Bệnh khảm lá",
+    "plant": "Rau ngót",
+    "symptoms": "Lá xuất hiện các vết đốm loang nổ màu xanh đậm xen kẽ xanh nhạt hoặc vàng (kiểu khảm). Lá bị biến dạng, xoăn lại, gồ ghề, nhăn nheo, kích thước lá nhỏ hơn bình thường. Cây sinh trưởng kém, cằn cỗi, ngọn bị chùy lại, đốt thân ngắn. Quả xuất hiện các vệt đốm, biến dạng, bề mặt gồ ghề và ngưng phát triển.",
+    "causes": "Do các loại vi-rút gây ra (như TMV, CMV, PRSV...). Bệnh lây truyền chủ yếu qua các côn trùng môi giới hút nhựa cây như rệp muội, bọ phấn trắng, bọ trĩ, hoặc lây lan cơ học qua dụng cụ cắt tỉa, vết thương khi chăm sóc và qua hạt giống mang mầm bệnh.",
+    "harm": "Làm giảm nghiêm trọng khả năng quang hợp của cây, khiến cây cằn cỗi không phát triển. Bệnh làm giảm năng suất từ 30% đến 100%, quả nhỏ, biến dạng, chất lượng kém không thể tiêu thụ. Trong trường hợp nhiễm nặng ở giai đoạn cây non, cây có thể lụi tàn và chết hàng loạt.",
+    "treatment": "Hiện chưa có thuốc hóa học đặc trị vi-rút. Biện pháp xử lý gồm: Nhổ bỏ và đốt tiêu hủy ngay các cây bị bệnh nặng để tránh lây lan. Phun thuốc trừ côn trùng môi giới (rệp, bọ phấn) bằng sản phẩm sinh học như dầu sầu đâu (Neem oil) hoặc hóa học chứa hoạt chất Imidacloprid, Thiamethoxam, Abamectin. Dùng bẫy dính màu vàng để thu hút bọ phấn. Chăm sóc bổ sung phân bón lá giàu vi lượng (Kẽm, Magie), chất kích kháng (Chitosan, Humic) giúp cây tăng đề kháng. Vệ sinh dụng cụ làm vườn bằng cồn hoặc xà phòng.",
+    "recovery_time": "Cây đã nhiễm vi-rút không thể phục hồi hoàn toàn. Việc điều trị tập trung ngăn chặn bệnh lây lan sang cây khỏe. Các cây bị nhẹ hoặc cây khỏe xung quanh sẽ ổn định phát triển trở lại sau 2 đến 3 tuần nếu kiểm soát tốt côn trùng môi giới và bổ sung dinh dưỡng hợp lý."
+  },
+  {
+    "id": "RAUNGOT___BENHXOANLA",
+    "name": "Bệnh xoăn lá",
+    "plant": "Rau ngót",
+    "symptoms": "Lá bị cuộn mép lên trên hoặc xuống dưới, phiến lá thu nhỏ, biến dạng, dầy và giòn hơn bình thường. Bề mặt lá nhăn nheo, gân lá có màu vàng hoặc xanh nhạt. Đọt non bị chùy lại, cây lùn còi cọc, hoa dễ rụng, tỷ lệ đậu quả kém, quả nhỏ và biến dạng.",
+    "causes": "Chủ yếu do virus (như Begomovirus, Geminivirus) gây ra, được truyền nhiễm qua các côn trùng môi giới như bọ phấn trắng (Bemisia tabaci), rầy mềm, bọ trĩ. Bệnh cũng có thể xuất hiện do nấm Taphrina deformans hoặc do cây bị sốc nhiệt, thiếu hụt vi chất dinh dưỡng.",
+    "harm": "Làm suy giảm nghiêm trọng khả năng quang hợp của cây, ngưng trệ quá trình sinh trưởng. Bệnh gây rụng hoa, rụng quả non, giảm sản lượng nghiêm trọng, có thể dẫn đến thất thu từ 50% đến 100% nếu cây bị nhiễm bệnh vào giai đoạn phát triển sớm.",
+    "treatment": "Không có thuốc chữa triệt để khi cây đã nhiễm virus. Cần nhổ bỏ và tiêu hủy cây bệnh nặng để tránh lây lan. Sử dụng bẫy dính vàng để thu bắt bọ phấn trắng, bọ trĩ. Phun các sản phẩm sinh học (dầu neem, nấm xanh, nấm trắng) hoặc thuốc hóa học chứa hoạt chất Imidacloprid, Thiamethoxam, Diafenthiuron để diệt côn trùng truyền bệnh. Bổ sung phân bón lá giàu Magiê, Kẽm, Canxi và chất kích kháng để giúp cây phục hồi.",
+    "recovery_time": "Các lá đã bị xoăn không thể duỗi thẳng lại. Cây có thể ra cành lá mới khỏe mạnh sau khoảng 2 - 4 tuần nếu kiểm soát tốt côn trùng môi giới và cung cấp đủ dinh dưỡng."
+  },
+  {
+    "id": "RAUNGOT___KHOEMANH",
+    "name": "Rau khỏe mạnh",
+    "plant": "Rau ngót",
+    "symptoms": "Lá cây xanh mượt, cứng cáp, không bị biến dạng hay xuất hiện các vết đốm, đốm vàng, đốm hoại tử. Thân cây chắc khỏe, không bị lở cổ rễ hay chảy mủ. Bộ rễ phát triển mạnh, trắng khỏe. Quả hoặc lá thu hoạch phát triển đồng đều, màu sắc tự nhiên, không có dấu hiệu bị sâu hại hay nấm bệnh tấn công.",
+    "causes": "Trạng thái khỏe mạnh đạt được khi cây được cung cấp đầy đủ và cân đối các chất dinh dưỡng (N, P, K và vi lượng), tưới nước đúng cách, đất trồng tơi xốp, thoát nước tốt và môi trường sống có ánh sáng, nhiệt độ thích hợp. Đồng thời không bị các tác nhân gây hại như nấm, vi khuẩn, virus hay sâu bọ xâm nhập.",
+    "harm": "Không có tác hại. Trạng thái khỏe mạnh giúp cây đạt năng suất tối đa, chất lượng nông sản cao, an toàn cho người sử dụng, mang lại hiệu quả kinh tế tốt nhất cho người trồng và tối ưu hóa chi phí chăm sóc.",
+    "treatment": "Không cần điều trị. Tiếp tục duy trì quy trình chăm sóc tốt: Tưới nước vừa đủ ẩm, bón phân hữu cơ hoai mục hoặc phân vi sinh định kỳ, làm cỏ, xới đất tạo độ thông thoáng cho rễ, luân canh cây trồng và thường xuyên kiểm tra để phòng ngừa sâu bệnh từ sớm.",
+    "recovery_time": "Cây đang ở trạng thái phát triển tối ưu, không cần thời gian phục hồi."
+  }
+]

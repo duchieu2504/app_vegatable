@@ -1,0 +1,72 @@
+# Environment & Secrets
+.env
+*.env
+.env*.local
+backend/.env
+
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+backend/venv/
+
+# Node & Frontend dependencies
+node_modules/
+mobile_app/node_modules/
+.expo/
+mobile_app/.expo/
+dist/
+mobile_app/dist/
+web-build/
+.claude/
+.agent/
+
+# Binaries & Executables
+*.exe
+backend/saved_models/hwi64_848.exe
+
+# Temporary & Dataset folders
+temp_dataset/
+backend/temp_dataset/
+
+# Database temporary files
+*.db-shm
+*.db-wal
+
+# Logs
+*.log
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# --- EXCLUSIONS REQUESTED BY USER ---
+# Documents & PowerPoint files
+*.docx
+*.doc
+*.pptx
+*.ppt
+~$*
+slide_assets/
+
+# Text dumps extracted from Word documents
+bao_cao_chuan_text.txt
+doc_extracted.txt
+docx_content.txt
+scratch_docx_text.txt
+thuyet_trinh_text.txt
+
+# Python scripts for creating, editing, and extracting docx & PowerPoint
+create_glossary.py
+create_presentation_pptx.py
+create_report.py
+extract_docx.py
+generate_slide_assets.py
+insert_charts_to_report.py
+inspect_bao_cao_chuan.py
+update_thuyet_trinh.py

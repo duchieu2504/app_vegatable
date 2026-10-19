@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+google-generativeai
+python-multipart
+kaggle
+torch
+torchvision
+Pillow

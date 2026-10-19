@@ -1,0 +1,78 @@
+Tuân thủ các nguyên tắc trước đó, xây dựng một app có chức năng sau:
+1. Chụp ảnh hoặc tải ảnh lên
+2. Nhận diện phân tích loại rau củ trong ảnh
+3. Phân tích rau đang trong giai đoạn nào, có bệnh hay không, thông tin bệnh
+4. Đưa ra giải pháp, thuốc phòng ngừa, mức độ cảnh báo về bệnh
+5. Xác suất có thể đúng loại bệnh
+
+##6. Tab "Từ điển" bệnh học
+- [ ]. Có thể lấy danh sách các loại cây trồng có trong data đã được train từ Kaggle ở file best_model.pt thêm vào danh sách hiện ra
+- []. Hiện các loại cây trồng, bấm vào hiện các loại bệnh đã được train
+- [ ]. Hiện tại đã thấy 2 bệnh được add vào tab này
+
+Không động vào 
+"cd frontend"
+"Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass"
+"npx expo start --web"
+
+'cd backend"
+"uvicorn main:app --reload --host 0.0.0.0"
+
+##7 .Code trong Kaggle
+
+!pip install roboflow
+
+from roboflow import Roboflow
+rf = Roboflow(api_key="/////")
+project = rf.workspace("cs-workspace-tvamo").project("agridoc_vegetables-sd1kw")
+version = project.version(1)
+dataset = version.download("folder")
+
+import os
+import shutil
+
+# rf_path chính là biến dataset.location do Roboflow tạo ra ở trên
+rf_path = dataset.location
+os.makedirs("Dataset", exist_ok=True)
+
+# Gom tất cả ảnh từ train, valid, test vào chung 1 thư mục Dataset
+for split in ['train', 'valid', 'test']:
+    split_dir = os.path.join(rf_path, split)
+    if os.path.exists(split_dir):
+        for class_name in os.listdir(split_dir):
+            src_class = os.path.join(split_dir, class_name)
+            # Kiểm tra xem nó có phải là thư mục không (tránh lỗi với file README của Roboflow)
+            if os.path.isdir(src_class):
+                dst_class = os.path.join("Dataset", class_name)
+                os.makedirs(dst_class, exist_ok=True)
+                for img in os.listdir(src_class):
+                    shutil.copy(os.path.join(src_class, img), os.path.join(dst_class, img))
+                
+print("Gom dữ liệu thành công! Đã sẵn sàng huấn luyện.")
+
+📁 DU_LIEU_RAU/
+├── 📁 RauMuong/
+│   ├── 📁 RauMuong_KhoeMạnh/    (50 ảnh)
+│   ├── 📁 RauMuong_BenhDomLa/    (50 ảnh)
+│   └── 📁 RauMuong_SauAnLa/      (50 ảnh)
+├── 📁 RauDen/
+│   ├── 📁 RauDen_KhoeManh/       (50 ảnh)
+│   ├── 📁 RauDen_BenhDomLa/      (50 ảnh)
+│   └── 📁 RauDen_BenhXoanLa/     (50 ảnh)
+└── 📁 CaiNgot/
+    ├── 📁 CaiNgot_KhoeManh/      (50 ảnh)
+    └── 📁 CaiNgot_BenhThan/      (50 ảnh)
+Bạn có 2 cách trên Roboflow:
+
+Cách 1 (Đơn giản nhất - Khuyến nghị): Gom tất cả thư mục con vào 1 Project duy nhất trên Roboflow.
+
+Tạo 1 Project trên Roboflow (ví dụ: AgriDoc_Vegetables).
+Upload cả thư mục DU_LIEU_RAU lên. Roboflow sẽ tự hiểu mỗi thư mục con là 1 nhãn (label) riêng.
+Khi export ra, nó sẽ gom thành: RauMuong_KhoeMạnh, RauMuong_BenhDomLa, RauDen_KhoeManh...
+Chạy đúng 1 lần Notebook → AI sẽ học TẤT CẢ cùng lúc.
+Cách 2 (Nếu muốn thêm rau mới sau này):
+
+Khi có thêm loại rau mới (ví dụ thêm Cải Bẹ Xanh), bạn chỉ cần upload thêm folder đó lên cùng Project trên Roboflow.
+Tạo Version mới (Generate New Version).
+Copy lại đoạn code export mới, dán vào Notebook, bấm Run All lại 1 lần nữa.
+Tóm lại: Dù có bao nhiêu loại rau, bao nhiêu loại bệnh, bạn cứ gom hết vào 1 thư mục gốc, upload lên 1 Project Roboflow, rồi chạy 1 lần Notebook là AI sẽ tự động học hết tất cả! 🦊✨
